@@ -1,4 +1,4 @@
-#Hello there, I'm Alexandre Folkl  
+# Hello there, I'm Alexandre Folkl  
 
  Computer Science graduate from **UNESP**  
  Main stack: **Ruby on Rails & JavaScript**  
@@ -24,7 +24,7 @@
 
 ---
 
-###Other midias where you can contact me:
+### Other midias where you can contact me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-folkl-2315181ba/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/slowfolkl)  
