@@ -19,6 +19,7 @@
 ---
 
 ### 📊 GitHub Stats
+I do a lot more on private repositories
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lelefolkl&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelefolkl&layout=compact&theme=radical)
 
